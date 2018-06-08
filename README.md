@@ -1,0 +1,1 @@
+Testing the functionality of GitPages for a simple HTML5 and JavaScript project.
